@@ -14,5 +14,8 @@ I'm Ronan, I'm a Front End programmer, I'm currently learning and creating proje
 ### Connect with me:
 
 <a href="https://www.instagram.com/ronaninanao">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="100px"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<br>
+<br>
+<img align="left" alt="icone do gmail" height="23px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ronan.moreira19@gmail.com
