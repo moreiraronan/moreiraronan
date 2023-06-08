@@ -18,4 +18,6 @@ I'm Ronan, I'm a Front End programmer, I'm currently learning and creating proje
 </a>
 <br>
 <br>
-<img align="left" alt="icone do gmail" height="23px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ronan.moreira19@gmail.com
+<a href="mailto:ronan.moreira19@gmail.com">
+<img align="left" alt="icone do gmail" height="23px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
